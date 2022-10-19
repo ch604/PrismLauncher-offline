@@ -14,6 +14,10 @@ Also know that because you are using an offline account, no server can be joined
 
 This is a **FORK** and not endorsed by MultiMC, PolyMC, or PrismLauncher teams.
 
+## Installation
+
+Grab your favorite flavor from [the latest release](https://github.com/ch604/PrismLauncher-offline/releases)
+
 ## License
 
 All launcher code is available under the GPL-3.0-only license.
