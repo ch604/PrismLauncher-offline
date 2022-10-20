@@ -12,7 +12,7 @@ Please keep in mind that I do not support piracy because piracy is illegal and n
 
 Also know that because you are using an offline account, no server can be joined unless it is modified by the server owner to skip player verification. The most popular servers are not going to be playable.
 
-This is a **FORK** and not endorsed by MultiMC, PolyMC, or PrismLauncher teams.
+This is a **FORK** and not endorsed by MultiMC, PolyMC, or PrismLauncher teams. Please check the upstream repo for additional details and thanks.
 
 ## Installation
 
@@ -21,3 +21,5 @@ Grab your favorite flavor from [the latest release](https://github.com/ch604/Pri
 ## License
 
 All launcher code is available under the GPL-3.0-only license.
+  
+The logo and related assets are under the CC BY-SA 4.0 license.
